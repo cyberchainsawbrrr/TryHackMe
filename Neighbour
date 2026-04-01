@@ -17,5 +17,5 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 8.33 seconds
 
 We can see that ports 22 and 80 are open. I went ahead and navigated to the http site.
-
+https://github.com/cyberchainsawbrrr/TryHackMe/blob/main/Screenshot%202026-03-31%20215749.png
 We are met with a login page asking for a username and password.
